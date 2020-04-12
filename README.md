@@ -1,3 +1,5 @@
+![icon.png](https://github.com/TurdPooCharger/CTRTransfer-Type-D9/blob/master/icon.png)
+
 # CTRTransfer (Type D9)
 GodMode9 script that does Decrypt9 method of CTRNAND image transfer with added improvements.
 For more information about this script, please check this GBAtemp forum post:
